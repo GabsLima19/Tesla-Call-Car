@@ -5,4 +5,5 @@ UX Design para aplicativo cujo seu uso é para chamada de carros autônomos. Pro
 ## Tecnologias
 - Telas feitas na plataforma https://marvelapp.com/.
 
+## Autores
 Trabalho feito em conjunto com João Victor Plessim. 
